@@ -1,0 +1,19 @@
+{
+    "name": "stormhaul/dungeonscribe",
+    "description": "Website for Dungeon Scribe",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timothy Smith",
+            "email": "stormhaul@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "symfony/symfony": "^4.3",
+        "symfony/console": "^4.3",
+        "symfony/routing": "^4.3",
+        "symfony/yaml": "^4.3"
+    }
+}
